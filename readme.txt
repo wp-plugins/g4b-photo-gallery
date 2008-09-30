@@ -1,7 +1,7 @@
 === G4B Photo Gallery ===
 Contributors: gdvickery
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=59686
-Tags: photo gallery, photo album, G4B
+Tags: photo, picture, image, gallery, album, admin, media, slideshow
 Requires at least: 2.2
 Tested up to: 2.6.2
 Stable tag: 1.0
