@@ -32,6 +32,20 @@ Plugin Features:
 2. Make sure that the folder wp-content/uploads/ exists and is writable by the server (CHMOD 755)
 3. Activate the plugin in your Wordpress Admin panel, under the Plugins page.
 
+Usage:
+
+To embed your gallery on any Wordpress page or post, simply type in the tag: {g4b_gallery}
+
+When the page content is loaded, the plugin looks for this tag, and swaps it out dynamically
+with your photo album.
+
+If you would like to embed the gallery with PHP, you can use this function call:
+
+`<?php G4B_gallery_view(); ?>`
+
+This function does NOT have to be in the Wordpress loop.
+
+
 
 == Frequently Asked Questions ==
 
