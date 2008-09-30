@@ -14,8 +14,11 @@ A simple yet powerful photo gallery plugin for Wordpress.
 G4B Photo Gallery is a free, flexible plugin for Wordpress. It provides a simple and effective way to 
 include a complete photo album anywhere on you blog, just by typing in a keyword.
 
+[Live Demo](http://geekforbrains.com/wordpress/g4b-photo-gallery-plugin-for-wordpress/ "Live demo of G4B Photo Gallery")
+
 Plugin Features:
 
+* Easily customize with CSS
 * Manage and create albums
 * Upload, edit and delete photos
 * Set thumbnail and full view sizes
